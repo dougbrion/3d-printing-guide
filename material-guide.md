@@ -26,6 +26,8 @@
 - Bed Temperature: 70-90 °C
 
 ## TPU <a name = "tpu"></a>
+TPU, or Thermoplastic Polyurethane is a common elastomer (elastic polymer) which can be printed on an FDM machine. In order to print high quality parts reliably a direct drive extruder is definitely recommended. The longer the distance from the extruder to the hotend the less the control as the filament acts like a spring. However, with enough calibration good prints can be achieved on a Bowden extruder. TPU requires a slow print speed of around 30mm/sec due to the fact that it is difficult to push the filament through the extruder thanks to its elastic nature. The material does not produce any noticeable fumes while printing and is a non-soluble material. It is however hygroscopic, which means it will degrade in wet conditions and also not food safe.
+
 - Extruder Temperature: 210-240 °C
 - Bed Temperature: 20–60 °C (not required)
 
