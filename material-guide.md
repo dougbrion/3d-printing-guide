@@ -10,6 +10,8 @@
 + [PVA](#pva)
 
 ## PLA <a name = "pla"></a>
+PLA, or Polylactic Acid is one of the most popular materials used in FDM 3D printing. It is a fantastic material to learn with as it is easy to print, inexpensive and produces good quality parts. PLA is also the most environmentally friendly plastic available to 3D print as it is derived from crops such as sugar cane.
+
 - Extruder Temperature: 190-220 °C
 - Bed Temperature: 45-60 °C
 
