@@ -1,6 +1,8 @@
 # Collection of 3D Printing Guides
 
-### Table of Contents
+This repository strives to be The Great Library of Alexandria for all 3D printing related matters with guides covering all the major aspects.
+
+## Table of Contents
 
 **Firmware Guides**
 - [Marlin](https://github.com/dougbrion/3d-printing-guide/blob/master/firmware-guides/marlin-guide.md)
