@@ -1,5 +1,7 @@
 # FDM 3D Printer Materials Guide
 
+This guide summarises a wide range of properties and characteristics for a variety of 3D printable materials.
+
 ## Table of Contents
 + [PLA](#pla)
 + [ABS](#abs)
