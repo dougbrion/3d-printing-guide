@@ -16,8 +16,11 @@ PLA, or Polylactic Acid is one of the most popular materials used in FDM 3D prin
 - Bed Temperature: 45-60 °C
 
 ## ABS <a name = "abs"></a>
+Acrylonitrile Butadiene Styrene, known as ABS for short, is a very popular 3D printing material due to its low-cost and good mechanical properties. It is a very tough and impact resistant material enabling durable 3D printed parts which can withstand high usage and wear. With a high glass transition temperature ABS can handle higher temperatures than many other printable materials before it begins to deform. When printing with this material ensure there is sufficient ventilation as the material has a slight odour and can be harmful. Additionally, ABS contracts a lot as it cools down, so a heated bed is required if not a heated chamber to ensure minimal warping and shrinkage.
+
 - Extruder Temperature: 220-250 °C
 - Bed Temperature: 90-110 °C
+- Glass Transition Temperature: 105 °C
 
 ## PETG <a name = "petg"></a>
 - Extruder Temperature: 230-250 °C
