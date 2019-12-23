@@ -1,6 +1,4 @@
-<h3 align="center">Collection of 3D Printing Guides</h3>
-
----
+# Collection of 3D Printing Guides
 
 This repository strives to be The Great Library of Alexandria for all 3D printing related matters with guides covering all the major aspects.
 

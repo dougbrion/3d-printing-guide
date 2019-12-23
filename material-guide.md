@@ -1,5 +1,7 @@
 # FDM 3D Printer Materials Guide
 
+![3D Printing Filament](https://static.wixstatic.com/media/07075b_e5845f021664434f9ab92adf83b95f3d~mv2.jpg "3D Printing Filament")
+
 This guide summarises a wide range of properties and characteristics for a variety of 3D printable materials.
 
 ## Table of Contents
@@ -18,6 +20,8 @@ PLA, or Polylactic Acid is one of the most popular materials used in FDM 3D prin
 
 - Extruder Temperature: 190-220 °C
 - Bed Temperature: 45-60 °C
+- Glass Transition Temperature: 65 °C
+- Density: 1.24g/cm<sup>3</sup>
 
 ## ABS <a name = "abs"></a>
 
@@ -26,16 +30,23 @@ Acrylonitrile Butadiene Styrene, known as ABS for short, is a very popular 3D pr
 - Extruder Temperature: 220-250 °C
 - Bed Temperature: 90-110 °C
 - Glass Transition Temperature: 105 °C
+- Density: 1.04g/cm<sup>3</sup>
 
 ## PETG <a name = "petg"></a>
 
+PETG is a durable copolyester (a combination). Polyethylene terephthalate, commonly abbreviated PET is commonly used in fibres for clothing and containers for liquids and foods. The G means it’s been glycol modified for extra durability. It is a tough material which prints without odour and has similar print quality as PLA. The material has a low shrinkage and as such little to no warping making it ideal for larger prints. It has superb layer adhesion, resulting in strong prints - note that this makes PETG a poor support material. Another benefit of PETG is that it has excellent chemical resistance, along with alkali, acid and water resistance.
+
 - Extruder Temperature: 230-250 °C
 - Bed Temperature: 75-95 °C
+- Glass Transition Temperature: 75 °C
+- Density: 1.27g/cm<sup>3</sup>
 
 ## Nylon <a name = "nylon"></a>
 
 - Extruder Temperature: 225-265 °C
 - Bed Temperature: 70-90 °C
+- Glass Transition Temperature: 70 °C
+- Density: 1.15g/cm<sup>3</sup>
 
 ## TPU <a name = "tpu"></a>
 
@@ -43,13 +54,18 @@ TPU, or Thermoplastic Polyurethane is a common elastomer (elastic polymer) which
 
 - Extruder Temperature: 210-240 °C
 - Bed Temperature: 20–60 °C (not required)
+- Density: 1.20g/cm<sup>3</sup>
 
 ## HIPS <a name = "hips"></a>
 
 - Extruder Temperature: 230-245 °C
 - Bed Temperature: 95-115 °C
+- Glass Transition Temperature: 100 °C
+- Density: 1.08g/cm<sup>3</sup>
 
 ## PVA <a name = "pva"></a>
 
 - Extruder Temperature: 180-200 °C
 - Bed Temperature: 45-60 °C
+- Glass Transition Temperature: 80 °C
+- Density: 1.19g/cm<sup>3</sup>
