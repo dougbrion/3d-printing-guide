@@ -4,13 +4,21 @@ This guide summarises a wide range of properties and characteristics for a varie
 
 ## Table of Contents
 
-- [PLA](#pla)
+| **[PLA](#pla)** |  **[ABS](#abs)**  | **[PETG](#petg)** | **[Nylon](#nylon)** |
+| :-------------: | :---------------: | :---------------: | :-----------------: |
+| **[TPU](#tpu)** | **[HIPS](#hips)** |  **[PVA](#pva)**  |   **[ASA](#asa)**   |
+| **[PC](#asa)**  |  **[PP](#asa)**   |                   |                     |
+
+<!-- - [PLA](#pla)
 - [ABS](#abs)
 - [PETG](#petg)
 - [Nylon](#nylon)
 - [TPU](#tpu)
 - [HIPS](#hips)
 - [PVA](#pva)
+- [ASA](#asa)
+- [PC](#asa)
+- [PP](#asa) -->
 
 ## PLA <a name = "pla"></a>
 
@@ -22,6 +30,7 @@ PLA, or Polylactic Acid is one of the most popular materials used in FDM 3D prin
 - Glass Transition Temperature: 65 °C
 - Density: 1.24 g/cm<sup>3</sup>
 - Coefficient of Thermal Expansion: 68 µm/m-°C
+- Elastic (Young's, Tensile) Modulus: 3.5 GPa
 
 ## ABS <a name = "abs"></a>
 
@@ -33,6 +42,7 @@ Acrylonitrile Butadiene Styrene, known as ABS for short, is a very popular 3D pr
 - Glass Transition Temperature: 105 °C
 - Density: 1.04 g/cm<sup>3</sup>
 - Coefficient of Thermal Expansion: 90 µm/m-°C
+- Elastic (Young's, Tensile) Modulus: 1.4-3.1 GPa
 
 ## PETG <a name = "petg"></a>
 
@@ -44,6 +54,7 @@ PETG is a durable copolyester (a combination). Polyethylene terephthalate, commo
 - Glass Transition Temperature: 75 °C
 - Density: 1.27 g/cm<sup>3</sup>
 - Coefficient of Thermal Expansion: 60 µm/m-°C
+- Elastic (Young's, Tensile) Modulus: 2.0-2.1 GPa
 
 ## Nylon <a name = "nylon"></a>
 
@@ -55,6 +66,7 @@ Nylon is an incredibly strong, durable and versatile 3D printing material. It is
 - Glass Transition Temperature: 70 °C
 - Density: 1.15 g/cm<sup>3</sup>
 - Coefficient of Thermal Expansion: 95 µm/m-°C
+- Elastic (Young's, Tensile) Modulus: 2.7 GPa
 
 ## TPU <a name = "tpu"></a>
 
@@ -65,6 +77,7 @@ TPU, or Thermoplastic Polyurethane is a common elastomer (elastic polymer) which
 - Heated Bed: Optional
 - Density: 1.20g/cm<sup>3</sup>
 - Coefficient of Thermal Expansion: 90µm/m-°C
+- Elastic (Young's, Tensile) Modulus: _TPU almost doesn’t have any linear behavior, hence there is no statement on its Young’s modulus._
 
 ## HIPS <a name = "hips"></a>
 
@@ -76,6 +89,7 @@ High impact polystyrene, or HIPS, is a material blend of polystyrene and rubber.
 - Glass Transition Temperature: 100 °C
 - Density: 1.08 g/cm<sup>3</sup>
 - Coefficient of Thermal Expansion: 80 µm/m-°C
+- Elastic (Young's, Tensile) Modulus: 1.9 GPa
 
 ## PVA <a name = "pva"></a>
 
@@ -87,3 +101,4 @@ PVA, or Polyvinyl Alcohol, is a soft and biodegradable 3D printable polymer that
 - Glass Transition Temperature: 80 °C
 - Density: 1.19 g/cm<sup>3</sup>
 - Coefficient of Thermal Expansion: 85 µm/m-°C
+- Elastic (Young's, Tensile) Modulus:
