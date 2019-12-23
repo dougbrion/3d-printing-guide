@@ -41,7 +41,7 @@ The aim is to cover all knowledge levels from novice to expert in these guides a
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@dougbrion](https://github.com/dougbrion) - Idea & Initial work
+- [@dougbrion](https://github.com/dougbrion)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
