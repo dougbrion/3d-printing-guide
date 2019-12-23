@@ -1,7 +1,5 @@
 # FDM 3D Printer Materials Guide
 
-![3D Printing Filament](https://static.wixstatic.com/media/07075b_e5845f021664434f9ab92adf83b95f3d~mv2.jpg "3D Printing Filament")
-
 This guide summarises a wide range of properties and characteristics for a variety of 3D printable materials.
 
 ## Table of Contents
@@ -20,8 +18,10 @@ PLA, or Polylactic Acid is one of the most popular materials used in FDM 3D prin
 
 - Extruder Temperature: 190-220 °C
 - Bed Temperature: 45-60 °C
+- Heated Bed: Optional
 - Glass Transition Temperature: 65 °C
-- Density: 1.24g/cm<sup>3</sup>
+- Density: 1.24 g/cm<sup>3</sup>
+- Coefficient of Thermal Expansion: 68 µm/m-°C
 
 ## ABS <a name = "abs"></a>
 
@@ -29,24 +29,32 @@ Acrylonitrile Butadiene Styrene, known as ABS for short, is a very popular 3D pr
 
 - Extruder Temperature: 220-250 °C
 - Bed Temperature: 90-110 °C
+- Heated Bed: Required
 - Glass Transition Temperature: 105 °C
-- Density: 1.04g/cm<sup>3</sup>
+- Density: 1.04 g/cm<sup>3</sup>
+- Coefficient of Thermal Expansion: 90 µm/m-°C
 
 ## PETG <a name = "petg"></a>
 
 PETG is a durable copolyester (a combination). Polyethylene terephthalate, commonly abbreviated PET is commonly used in fibres for clothing and containers for liquids and foods. The G means it’s been glycol modified for extra durability. It is a tough material which prints without odour and has similar print quality as PLA. The material has a low shrinkage and as such little to no warping making it ideal for larger prints. It has superb layer adhesion, resulting in strong prints - note that this makes PETG a poor support material. Another benefit of PETG is that it has excellent chemical resistance, along with alkali, acid and water resistance.
 
 - Extruder Temperature: 230-250 °C
-- Bed Temperature: 75-95 °C
+- Bed Temperature: 75-95
+- Heated Bed: Required
 - Glass Transition Temperature: 75 °C
-- Density: 1.27g/cm<sup>3</sup>
+- Density: 1.27 g/cm<sup>3</sup>
+- Coefficient of Thermal Expansion: 60 µm/m-°C
 
 ## Nylon <a name = "nylon"></a>
 
+Nylon is an incredibly strong, durable and versatile 3D printing material. It is flexible when thin, and has very high inter-layer adhesion enabling the creation of strong and functional parts. It has a low coefficient of friction and high melting temperature making it an excellent choice for a variety of everyday items such as 3D printed tools, gears, RC cars and more. Nylon filament is incredibly hygroscopic, meaning that it readily absorbs water from the air, and should be kept in a very dry environment and preferably dried before printing.
+
 - Extruder Temperature: 225-265 °C
 - Bed Temperature: 70-90 °C
+- Heated Bed: Required
 - Glass Transition Temperature: 70 °C
-- Density: 1.15g/cm<sup>3</sup>
+- Density: 1.15 g/cm<sup>3</sup>
+- Coefficient of Thermal Expansion: 95 µm/m-°C
 
 ## TPU <a name = "tpu"></a>
 
@@ -54,18 +62,28 @@ TPU, or Thermoplastic Polyurethane is a common elastomer (elastic polymer) which
 
 - Extruder Temperature: 210-240 °C
 - Bed Temperature: 20–60 °C (not required)
+- Heated Bed: Optional
 - Density: 1.20g/cm<sup>3</sup>
+- Coefficient of Thermal Expansion: 90µm/m-°C
 
 ## HIPS <a name = "hips"></a>
 
+High impact polystyrene, or HIPS, is a material blend of polystyrene and rubber. It can be dissolved in a limonene solution as such is used for support material, eliminating the need for removal via abrasives, cutting tools, or other methods that leave artefacts on your print. HIPS is similar to ABS, and is actually a little stronger. As such, apart from being used as a support material, it is also a good primary building material. HIPS is easily painted, machineable, and works with a large number of adhesives. It’s also food safe, non-toxic, fully recyclable, and non-hydroscopic, meaning it won’t degrade in humid environments. Unfortunately, HIPS gives off fumes while printing, just like ABS. HIPS will release small amounts of styrene into the atmosphere. Therefore, you should have your printer in a well-ventilated area while utilizing this material.
+
 - Extruder Temperature: 230-245 °C
 - Bed Temperature: 95-115 °C
+- Heated Bed: Required
 - Glass Transition Temperature: 100 °C
-- Density: 1.08g/cm<sup>3</sup>
+- Density: 1.08 g/cm<sup>3</sup>
+- Coefficient of Thermal Expansion: 80 µm/m-°C
 
 ## PVA <a name = "pva"></a>
 
+PVA, or Polyvinyl Alcohol, is a soft and biodegradable 3D printable polymer that will dissolve when exposed to water, making it a very useful support structure material. PVA enables the printing of highly complex geometries as the supports used to create such shapes can be removed easily by dissolving in warm water.
+
 - Extruder Temperature: 180-200 °C
 - Bed Temperature: 45-60 °C
+- Heated Bed: Required
 - Glass Transition Temperature: 80 °C
-- Density: 1.19g/cm<sup>3</sup>
+- Density: 1.19 g/cm<sup>3</sup>
+- Coefficient of Thermal Expansion: 85 µm/m-°C
